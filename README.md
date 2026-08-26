@@ -1,4 +1,4 @@
-# Minimalist Hibiscus Tea 🌺
+# Minimalist Hibiscus Tea
 
 A minimal Chrome theme in a soft, rosy palette, by Miguel Euraque.
 
